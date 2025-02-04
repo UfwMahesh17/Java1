@@ -1,4 +1,4 @@
-public class Example {
+public class Local Variable Exercise {
     
     public void putAge () {
         int age = 20;
